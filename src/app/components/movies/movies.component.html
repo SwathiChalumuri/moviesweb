@@ -1,0 +1,47 @@
+<div fxLayout="column" fxLayoutGap = "2%">
+    <div>
+        <mat-card fxLayoutAlign="space-between" class="searchcard">
+           <div>
+               <p>Total no. of movies: {{count}}</p>
+           </div>
+            <div>
+            <!-- <mat-form-field class="example-full-width"> -->
+                <input class="inp" matInput placeholder="" (keyup)="inpChange($event)" (keyup.backspace)="backSpace($event)" (keyup.enter)="backSpace($event)" (keyup.delete) = "backSpace($event)">
+                <button mat-button style="background-color: skyblue;" >
+                    <mat-icon>search</mat-icon>
+                </button>
+              <!-- </mat-form-field> -->
+           </div>
+           
+        </mat-card>
+    </div>
+    
+  
+        <div class="marginRight" fxLayout="row wrap" fxLayoutGap="6%" fxLayoutAlign="start">
+            <div  *ngFor = "let a of arr">
+             <mat-card  (mouseover)="hover=true" (mouseleave)="hover=false" class="card">
+                
+             <div fxLayout="row" fxFlex="100" fxLayoutGap="1%">
+               
+                        
+                         <mat-card-header class="front" fxFlex="70" fxLayoutAlign="start center">
+                             <img class="image" mat-card-image src="{{a.image}}">
+                        </mat-card-header>
+               <mat-card-content class="back" fxLayout = "column">
+                   <h3>{{a.movie}}</h3>
+                   <p style="font-size: 12px;">{{a.dir}}</p>
+                   <p style="font-size: 12px;">{{a.producer}}</p>
+                   <p style="font-size: 12px;">{{a.hero}}</p>
+                   <p style="font-size: 12px;">{{a.heroine}}</p>
+                   <div class="button">
+                    <button mat-button>watch now</button>
+                </div>
+               </mat-card-content>
+         </div>
+           
+         </mat-card>
+            </div>
+         </div>
+    
+    
+</div>

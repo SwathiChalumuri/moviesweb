@@ -1,0 +1,115 @@
+[
+    {
+        "movie": "Darbar",
+      "dir": "AR Murugadoss",
+      "producer": "Allirajah Subaskaran‎",
+       "hero": "Rajinikanth",
+      "heroine":"Nayanthara, Nivetha Thomas",
+      "image": "https://timesofindia.indiatimes.com/thumb/msid-73095052,width-800,height-600,resizemode-4/73095052.jpg"
+    },
+    {
+        "movie": "Sarileru neekevvaru",
+      "dir": "Anil Ravipudi",
+      "producer": "Anil Sunkara‎; ‎Dil Raju‎",
+       "hero": "Mahesh babu",
+      "heroine":"Rashmika Mandanna",
+        "image": "https://static.toiimg.com/photo/msid-73108641/73108641.jpg?770915"
+    },
+    {
+       "movie": "Ala Vaikuntapuramlo",
+      "dir": "Trivikram",
+      "producer": "Allu Aravind,S. Radha Krishna‎",
+       "hero": "Allu Arjun",
+      "heroine":"pooja hegde",
+        "image": "https://timesofindia.indiatimes.com/thumb/msid-71092205,imgsize-101231,width-800,height-600,resizemode-4/71092205.jpg"
+    },
+    {
+      "movie": "Sye Raa Narasimha Reddy",
+      "dir": "Surender Reddy",
+      "producer": "Ram charan",
+       "hero": "Chiranjeevi",
+      "heroine":"Nayanthara, Tamannaah",
+        "image": "https://timesofindia.indiatimes.com/thumb/msid-71187114,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+       "movie": "Saaho",
+      "dir": "Sujeeth",
+      "producer": "Vamsi Krishna Reddy,Pramod Uppalapati,Bhushan Kumar‎",
+       "hero": "Prabhas",
+      "heroine":"Shraddha Kapoor",
+        "image": "https://i.ytimg.com/vi/eViKNj9TXRM/maxresdefault.jpg"
+    },
+    {
+      "movie": "Maharshi",
+      "dir": "Vamshi Paidipally",
+      "producer": "Dil Raju,C. Ashwini Dutt,Prasad V. Potluri‎",
+       "hero": "Mahesh babu",
+      "heroine":"Pooja Hegde",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHHByphdpvAE7mF8VYTAR4kjjse3hAKBXoeYILMHgSuLJfxZU&s"
+    },
+    {
+       "movie": "F2 – Fun and Frustration",
+      "dir": "K. S. Ravindra",
+      "producer": "D. Suresh Babu,T. G. Vishwa Prasad,Vivek Kuchibhotla‎",
+       "hero": "Venkatesh, Akkineni Naga Chaitanya",
+      "heroine":"Raashi Khanna, Payal Rajput",
+        "image": "https://i.ytimg.com/vi/otAcYFVFE7k/maxresdefault.jpg"
+    },
+    {
+       "movie": "Vinaya Vidheya Rama",
+      "dir": "Boyapati Srinu",
+      "producer": "DVV Danayya‎",
+       "hero": "Ram Charan",
+      "heroine":"Kiara Advani ",
+        "image": "https://mcmscache.epapr.in/post_images/website_197/post_9320690/thumb.jpg"
+    },
+    {
+     "movie": "iSmart Shankar",
+      "dir": "Puri Jagannadh",
+      "producer": "Puri Jagannadh,Charmme Kaur‎",
+       "hero": "Ram Pothineni",
+      "heroine":"Nabha Natesh, Nidhhi Agerwal",
+        "image": "https://i.ytimg.com/vi/V5c4BnmPTpU/maxresdefault.jpg"
+    },
+    {
+     "movie": "Majili",
+      "dir": "Shiva Nirvana",
+      "producer": "Sahu Garapati,Harish Peddi",
+       "hero": "Naga Chaitanya Akkineni",
+      "heroine":"Samantha Akkineni",
+        "image": "https://i.ytimg.com/vi/GGnjt3Jo-a4/maxresdefault.jpg"
+    },
+    {
+     "movie": "Jersey",
+      "dir": "Gowtham Tinnanuri",
+      "producer": "Suryadevara Naga Vamsi‎",
+       "hero": "Nani",
+      "heroine":"Shraddha Srinath",
+        "image": "https://i.ytimg.com/vi/AjAe_Q1WZ_8/maxresdefault.jpg"
+    },
+    {
+   "movie": "Gaddalakonda Ganesh",
+      "dir": "Harish Shankar",
+      "producer": "Ram Achanta,Gopichand Achanta‎",
+       "hero": "Varun Tej",
+      "heroine":"Atharvaa, Pooja Hegde",
+        "image": "https://timesofindia.indiatimes.com/thumb/msid-71213655,imgsize-339392,width-800,height-600,resizemode-4/71213655.jpg"
+    },
+    {
+     "movie": "Mr. Majnu",
+      "dir": "Venky Atluri ",
+      "producer": "B. V. S. N. Prasad‎",
+       "hero": "Akhil Akkineni",
+      "heroine":"Nidhhi Agerwal",
+        "image": "https://images.assettype.com/sakshipost%2F2019-01%2F0a38e0fc-6d48-43b2-8afb-2e3343efd11c%2FMr_Majnu.jpg?auto=format&q=35&w=320&fm=pjpeg"
+    },
+    {
+    "movie": "N.T.R. Kathanayakudu",
+      "dir": "Krish",
+      "producer": "Nandamuri Balakrishna,Sai Korrapati,Vishnu Induri‎",
+       "hero": "Nandamuri Balakrishna",
+      "heroine":"Vidya Balan",
+        "image": "https://timesofindia.indiatimes.com/thumb/msid-67470412,width-800,height-600,resizemode-4/67470412.jpg"
+    }
+    
+  ]
